@@ -8,7 +8,7 @@ A community driven list of useful Scala books, tutorials, online courses, intera
     - [Tutorials](#tutorials)
     - [Online Courses](#online-courses)
     - [Interactive Tools](#interactive-tools)
-    - [Presentations Slides](#presentation-slides)
+    - [Presentation Slides](#presentation-slides)
 - [Contributing](#contributing)
 
 ## Books
@@ -48,7 +48,7 @@ A community driven list of useful Scala books, tutorials, online courses, intera
 * [Simply Scala](http://www.simplyscala.com/) - A web site where you can interactively run the Scala interpreter in your browser. Consists of tutorials that gives a rapid overview of the basic language features, the syntax, examples you can run and the ability to try your own code with an interactive interpreter.
 
 
-## Presentations Slides
+## Presentation Slides
 
 *Presentations slides for learning Scala.*
 

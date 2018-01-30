@@ -31,6 +31,9 @@ A community driven list of useful Scala books, tutorials, online courses, intera
 * [Scala School](https://twitter.github.io/scala_school/) - A series of lectures at Twitter to prepare experienced engineers to be productive Scala programmers..
 * [Effective Scala](https://twitter.github.io/effectivescala/) - A tutorial for learning "best practices" for Scala. Useful for understanding idioms in Twitter's code.
 * [A Scala Tutorial for Java Programmers](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) -  A tutorial intended for people who already have some programming experience in Java and want an overview of what they can do with Scala.
+* [Community Curated Scala Resources](https://hackr.io/tutorials/learn-scala) - Useful Scala tutorials submitted & voted by the programming community.
+
+
 
 
 ## Online Courses
